@@ -37,19 +37,19 @@ require_once "handler.php";
 	<div class="wrapper">
 		<form action="handler.php" method="post">
 			<div>
-				<label for="a">Введите A</label>
+				<label for="a">ax<sup>2</sup></label>
 			</div>
 			<div>
 				<input id="a" type="text" name="a">
 			</div>
 			<div>
-				<label for="b">Введите B</label>
+				<label for="b">bx</label>
 			</div>
 			<div>
 				<input id="b" type="text" name="b">
 			</div>
 			<div>
-				<label for="c">Введите C</label>
+				<label for="c">c</label>
 			</div>
 			<div>
 				<input id="c" type="text" name="c">
